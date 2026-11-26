@@ -95,7 +95,7 @@ A curated collection of the best open-source AI agent frameworks, tools, and res
 
 ## Agent Tools & Extensions
 
-- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local macOS CLI and stdio MCP payments with foreground owner approval for signing.
+- [Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node) - Local macOS CLI and stdio MCP payments with an owner-set x402 policy and terminal approval for direct transfers.
 | Project | GitHub | Description |
 |---------|--------|-------------|
 | **CrewAI Tools** | [crewAIInc/crewAI-tools](https://github.com/crewAIInc/crewAI-tools) | Official tools collection for CrewAI agents |
